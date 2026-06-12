@@ -23,15 +23,15 @@ Estas regras devem ser aplicadas quando o usuário utilizar uma das expressões:
 
 ## Relatórios
 
-blob/main/configuracoes/saida_relatorio.md
+configuracoes/saida_relatorio.md
 
 ## Currículos
 
-blob/main/configuracoes/saida_curriculo.md
+configuracoes/saida_curriculo.md
 
 ## Regras Gerais
 
-blob/main/configuracoes/concept_rules.md
+configuracoes/concept_rules.md
 
 ---
 

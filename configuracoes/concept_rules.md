@@ -6,6 +6,9 @@ VERSAO=1.1
 
 Padronizar a geração de conteúdo utilizando os templates deste repositório.
 
+
+##teste
+
 ---
 
 # ATIVAÇÃO

@@ -1,5 +1,5 @@
 # CHATGPT_RULES
-template Concept
+
 VERSAO=1.2
 
 ## OBJETIVO
@@ -33,7 +33,7 @@ configuracoes/saida_curriculo.md
 
 ## Regras Gerais
 
-configuracoes/concept_rules.md
+configuracoes/SKILL.md
 
 ---
 

@@ -1,0 +1,2 @@
+TEMPLATE_PADRAO_RELATORIO=saida_relatorio.md
+TEMPLATE_PADRAO_CURRICULO=saida_curriculo.md

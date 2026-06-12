@@ -13,6 +13,13 @@ Padronizar a geração de relatórios.
 * Não utilizar emojis.
 * Não utilizar textos promocionais.
 
+## Regra Crítica de Saída
+
+A resposta final deve ser gerada EXCLUSIVAMENTE no formato:
+
+```text
+conteúdo do relatório
+
 ## Estrutura Obrigatória
 
 # Título

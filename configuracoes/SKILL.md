@@ -122,6 +122,7 @@ v_nome = "Leonardo"
 3. Arquivos de saída (saida_relatorio.md, saida_curriculo.md).
 4. SKILL.
 5. Padrões do modelo.
+6. Regras de saída são obrigatórias e têm precedência sobre preferências de formatação do modelo.
 
 ---
 

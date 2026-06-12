@@ -120,7 +120,7 @@ v_nome = "Leonardo"
 1. Solicitação atual do usuário.
 2. Template informado na conversa.
 3. Arquivos de saída (saida_relatorio.md, saida_curriculo.md).
-4. CHATGPT_RULES.
+4. SKILL.
 5. Padrões do modelo.
 
 ---

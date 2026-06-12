@@ -13,3 +13,7 @@ Observações / Evidências (opcional): Levantamento de laudos realizados
 
 está trazendo de:
 https://raw.githubusercontent.com/silotti/templates/main/configuracoes/SKILL.md
+
+---------------
+prompt->
+Use template Concept para gerar um relatório básico.

@@ -1,13 +1,10 @@
 # CHATGPT_RULES
 
-VERSAO=1.2
+VERSAO=1.1
 
 ## OBJETIVO
 
 Padronizar a geração de conteúdo utilizando os templates deste repositório.
-
-
-##teste
 
 ---
 

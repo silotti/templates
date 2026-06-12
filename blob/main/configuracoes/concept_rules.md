@@ -1,10 +1,37 @@
 # CHATGPT_RULES
 
-Versão: 1.0
+VERSAO=1.1
 
-## Objetivo
+## OBJETIVO
 
 Padronizar a geração de conteúdo utilizando os templates deste repositório.
+
+---
+
+# ATIVAÇÃO
+
+Estas regras devem ser aplicadas quando o usuário utilizar uma das expressões:
+
+* Template Concept
+* Relatório Concept
+* Currículo Concept
+* Use CHATGPT_RULES
+
+---
+
+# ARQUIVOS DE REFERÊNCIA
+
+## Relatórios
+
+blob/main/configuracoes/saida_relatorio.md
+
+## Currículos
+
+blob/main/configuracoes/saida_curriculo.md
+
+## Regras Gerais
+
+blob/main/configuracoes/concept_rules.md
 
 ---
 
@@ -13,7 +40,7 @@ Padronizar a geração de conteúdo utilizando os templates deste repositório.
 ## Idioma
 
 * Utilizar Português do Brasil.
-* Utilizar linguagem clara e objetiva.
+* Utilizar linguagem clara, objetiva e profissional.
 * Evitar regionalismos.
 
 ## Precisão
@@ -25,7 +52,7 @@ Padronizar a geração de conteúdo utilizando os templates deste repositório.
 ## Formatação
 
 * Utilizar Markdown.
-* Utilizar títulos hierárquicos (#, ##, ###).
+* Utilizar títulos hierárquicos.
 * Utilizar listas quando apropriado.
 * Utilizar tabelas para informações estruturadas.
 * Não utilizar emojis em documentos técnicos.
@@ -40,46 +67,23 @@ Padronizar a geração de conteúdo utilizando os templates deste repositório.
 
 # RELATÓRIOS
 
-## Arquivo de Referência
+## Processo
 
-relatorios/relatorio_padrao.md
-
-## Regras
-
-* Linguagem técnica e formal.
-* Incluir identificação.
-* Incluir objetivo.
-* Incluir desenvolvimento.
-* Incluir resultados.
-* Incluir conclusão.
-* Incluir recomendações quando aplicável.
+1. Consultar concept_rules.md.
+2. Consultar saida_relatorio.md.
+3. Aplicar os dados fornecidos.
+4. Gerar a saída final.
 
 ---
 
 # CURRÍCULOS
 
-## Arquivo de Referência
+## Processo
 
-curriculos/curriculo_padrao.md
-
-## Regras
-
-* Priorizar experiências recentes.
-* Destacar resultados obtidos.
-* Destacar competências técnicas.
-* Evitar textos excessivamente longos.
-* Adaptar ao cargo pretendido.
-
----
-
-# TABELAS
-
-## Regras
-
-* Utilizar tabelas Markdown.
-* Manter alinhamento adequado.
-* Incluir cabeçalhos descritivos.
-* Informar unidades de medida quando aplicável.
+1. Consultar concept_rules.md.
+2. Consultar saida_curriculo.md.
+3. Aplicar os dados fornecidos.
+4. Gerar a saída final.
 
 ---
 
@@ -110,22 +114,22 @@ Exemplo:
 
 v_nome = "Leonardo"
 
-## Explicações
-
-* Explicar passo a passo quando solicitado.
-* Mostrar saída esperada quando relevante.
-
 ---
 
 # PRIORIDADE DAS REGRAS
 
 1. Solicitação atual do usuário.
 2. Template informado na conversa.
-3. CHATGPT_RULES.
-4. Padrões padrão do modelo.
+3. Arquivos de saída (saida_relatorio.md, saida_curriculo.md).
+4. CHATGPT_RULES.
+5. Padrões do modelo.
 
 ---
 
 # CONTROLE DE VERSÃO
 
-Sempre informar a versão do template utilizado quando solicitado.
+Quando solicitado pelo usuário, informar:
+
+* Template utilizado.
+* Versão utilizada.
+* Arquivos consultados.

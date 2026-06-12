@@ -1,5 +1,5 @@
 # CHATGPT_RULES
-
+template Concept
 VERSAO=1.2
 
 ## OBJETIVO
@@ -17,7 +17,6 @@ Estas regras devem ser aplicadas quando o usuário utilizar uma das expressões:
 
 * Template Concept
 * Relatório Concept
-* Currículo Concept
 * Use CHATGPT_RULES
 
 ---

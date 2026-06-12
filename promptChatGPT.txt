@@ -8,3 +8,8 @@ Responsável: Leonardo L. Silotti
 Atividade / Descrição: Laudos de (AR)
 Local (se houver): Trox
 Observações / Evidências (opcional): Levantamento de laudos realizados
+
+-------
+
+está trazendo de:
+https://raw.githubusercontent.com/silotti/templates/main/configuracoes/SKILL.md

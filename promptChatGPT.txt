@@ -17,3 +17,7 @@ https://raw.githubusercontent.com/silotti/templates/main/configuracoes/SKILL.md
 ---------------
 prompt->
 Use template Concept para gerar um relatório básico.
+
+
+prompt->
+Template Concept Gerar relatório... Empresa: Trox do Brasil Responsável: Leonardo L. Silotti Atividade / Descrição: Laudos de (AR) Local (se houver): Trox Curitiba/PR Observações / Evidências (opcional): Levantamento de laudos realizados

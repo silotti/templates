@@ -22,7 +22,19 @@ Estas regras devem ser aplicadas quando o usuário utilizar uma das expressões:
 
 ## Relatórios
 
-configuracoes/saida_relatorio.md
+Ao gerar relatórios:
+
+1. Utilizar obrigatoriamente o template definido em:
+   relatorios/relatorio_padrao.md
+
+2. Preservar a ordem e os títulos das seções.
+
+3. Preencher os campos disponíveis com as informações fornecidas pelo usuário.
+
+4. Caso algum campo não seja informado, omiti-lo ou indicar 'Não informado'.
+
+5. Aplicar as regras de formatação definidas em:
+   configuracoes/saida_relatorio.md
 
 ## Currículos
 

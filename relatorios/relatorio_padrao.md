@@ -8,8 +8,10 @@
 > - Não alterar títulos ou numeração.
 > - Apenas substituir os campos e textos de exemplo pelo conteúdo do usuário.
 > - Manter a saída em Markdown.
+> - O título do relatório deve ser gerado no formato:
+>   "Relatório Técnico - {Atividade / Descrição} ({Empresa})".
 
-# RELATÓRIO
+# Relatório Técnico - {Atividade / Descrição} ({Empresa})
 
 ## 1. Identificação
 

@@ -1,18 +1,3 @@
-# CONFIGURAÇÃO DE SAÍDA - RELATÓRIOS
-
-## Objetivo
-
-Padronizar a geração de relatórios.
-
-## Formato
-
-* Utilizar Markdown.
-* Utilizar títulos e subtítulos hierárquicos.
-* Utilizar tabelas quando apropriado.
-* Utilizar linguagem técnica e formal.
-* Não utilizar emojis.
-* Não utilizar textos promocionais.
-
 ## Fidelidade ao Template
 
 A estrutura do relatório deve ser copiada integralmente do arquivo
@@ -32,60 +17,22 @@ A estrutura do relatório deve ser copiada integralmente do arquivo
 - Substituir textos de exemplo.
 - Completar informações ausentes com "Não informado" quando necessário.
 
-## Regra Crítica de Saída
+## Regra do Título
 
-A resposta final deve ser gerada EXCLUSIVAMENTE no formato:
+O título deve ser obtido do template
+`relatorios/relatorio_padrao.md`.
 
-```text
-conteúdo do relatório
+Quando o template utilizar:
 
-## Estrutura Obrigatória
+# Relatório Técnico - {Atividade / Descrição} ({Empresa})
 
-# Título
+os campos devem ser substituídos pelos dados fornecidos pelo usuário.
 
-## Identificação
+Exemplo:
 
-Informações gerais do relatório.
+Empresa: Trox do Brasil
+Atividade / Descrição: Laudos de AR
 
-## Objetivo
+Resultado:
 
-Descrição do propósito do relatório.
-
-## Desenvolvimento
-
-Descrição detalhada das atividades executadas.
-
-## Resultados
-
-Resultados observados.
-
-## Conclusão
-
-Conclusão técnica.
-
-## Recomendações
-
-Ações recomendadas.
-
-## Anexos
-
-Fotografias, tabelas ou documentos complementares.
-
-## Regras
-
-* Destacar informações ausentes.
-* Não inventar dados.
-* Utilizar listas quando apropriado.
-* Utilizar tabelas para organizar informações repetitivas.
-* Priorizar clareza e objetividade.
-
-## Público-Alvo
-
-* Gestores
-* Supervisores
-* Clientes
-* Órgãos fiscalizadores
-
-## Nível de Detalhamento
-
-ALTO
+# Relatório Técnico - Laudos de AR (Trox do Brasil)

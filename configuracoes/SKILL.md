@@ -24,17 +24,15 @@ Estas regras devem ser aplicadas quando o usuário utilizar uma das expressões:
 
 Ao gerar relatórios:
 
-1. Utilizar obrigatoriamente o template definido em:
-   relatorios/relatorio_padrao.md
-
-2. Preservar a ordem e os títulos das seções.
-
-3. Preencher os campos disponíveis com as informações fornecidas pelo usuário.
-
-4. Caso algum campo não seja informado, omiti-lo ou indicar 'Não informado'.
-
-5. Aplicar as regras de formatação definidas em:
-   configuracoes/saida_relatorio.md
+- Utilizar obrigatoriamente o arquivo `relatorios/relatorio_padrao.md` como estrutura base.
+- Reproduzir exatamente os títulos, subtítulos, ordem das seções e formatação do template.
+- Não criar novas seções.
+- Não remover seções existentes.
+- Não renomear títulos ou subtítulos.
+- Não alterar a hierarquia de cabeçalhos Markdown.
+- Apenas preencher os campos e substituir os textos de exemplo pelo conteúdo fornecido pelo usuário.
+- Caso alguma informação não seja fornecida, manter o campo ou indicar "Não informado".
+- O conteúdo final deve seguir fielmente a estrutura do template.
 
 ## Currículos
 

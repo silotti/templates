@@ -1,3 +1,14 @@
+# TEMPLATE DE RELATÓRIO
+
+> INSTRUÇÕES PARA O MODELO:
+>
+> - Utilizar esta estrutura exatamente como definida.
+> - Não adicionar novas seções.
+> - Não remover seções.
+> - Não alterar títulos ou numeração.
+> - Apenas substituir os campos e textos de exemplo pelo conteúdo do usuário.
+> - Manter a saída em Markdown.
+
 # RELATÓRIO
 
 ## 1. Identificação
